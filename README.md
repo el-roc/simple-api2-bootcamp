@@ -1,6 +1,6 @@
 # Random Article Generator
 
-    Generate random articles
+    Generate random articles from a NewYorkTimes API
 
 ## Live Project-
 
@@ -14,4 +14,4 @@ https://eric-simple-api2.netlify.com/
 
     JavaScript HTML CSS
 
-### 
+
